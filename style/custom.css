@@ -95,3 +95,7 @@ section#contato button{
     color: #085ED6;
     background-color: #fff;
 }
+
+textarea.form-control {
+    width: 100% !important;
+}
